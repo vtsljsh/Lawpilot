@@ -1,0 +1,7 @@
+{
+  "description": "Juris: AI Legal Research Assistant with voice input and document management.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Juris"
+}
